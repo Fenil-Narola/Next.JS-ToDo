@@ -1,8 +1,8 @@
-<img src="https://ik.imagekit.io/lrjseyuxi3m/todoapp/todo-git-cover-min_eWb82Iwg2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643738668979">
+<img src="https://ik.imagekit.io/linef/todo.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675773169104">
 
 ## Todo App Next
 
-<a href="https://patrickrios-todo-app.vercel.app/">Check the live preview</a>
+<a href="https://linef-todo.netlify.app/">Check the live preview</a>
 
 First, install the dependencies, run
 
