@@ -26,7 +26,7 @@ export default function TaskListTodo() {
     <TaskList>
       {todoList.length > 0 && (
         <>
-          <h3>to do</h3>
+          <h3>ToDo</h3>
           {todoList}
         </>
       )}
